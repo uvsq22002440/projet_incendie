@@ -12,9 +12,7 @@
 #https://github.com/uvsq21918039/projet_incendie
 #########################################################
 
-<<<<<<< HEAD
-import tkinter as tk 
-=======
+
 #########################################################
 # import des librairies
 import tkinter as tk 
@@ -70,7 +68,5 @@ import tkinter as tk
 
 
 #########################################################
->>>>>>> 9f91f44c9a080ea3117c9afb828f8af03ce29a70
 
-racine = tk.Tk()
 
