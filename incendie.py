@@ -7,7 +7,7 @@
 # Wacil Naoufl 
 # Anas Shaik 
 # Abdel Hakim Belmehdi
-# Lakshli Kootala 
+# Lakshmi Kootala 
 # Wiliam Mollet
 #https://github.com/uvsq21918039/projet_incendie
 #########################################################
@@ -20,4 +20,7 @@ huho
 
 re test numéro 4545648416
 
+
 ##### test du segment numéro 1
+=======
+
