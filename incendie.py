@@ -14,7 +14,13 @@
 # #########################################################
 # import des librairies
 
-
-
 import tkinter as tk 
+
 racine = tk.Tk()
+
+
+
+#######définitions des constantes
+#######définition des variables globales
+#######définition des fonctions 
+#######PROGRAMME##########
