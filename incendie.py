@@ -74,12 +74,3 @@ import tkinter as tk
 
 racine = tk.Tk()
 
-<<<<<<< HEAD
-
-
-#######définitions des constantes
-#######définition des variables globales
-#######définition des fonctions 
-#######PROGRAMME##########
-=======
->>>>>>> 9f91f44c9a080ea3117c9afb828f8af03ce29a70
