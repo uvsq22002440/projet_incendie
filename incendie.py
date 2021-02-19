@@ -11,8 +11,6 @@
 # Wiliam Mollet
 #https://github.com/uvsq21918039/projet_incendie
 #########################################################
-# #########################################################
-# import des librairies
 
 <<<<<<< HEAD
 import tkinter as tk 
