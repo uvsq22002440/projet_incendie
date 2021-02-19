@@ -12,15 +12,7 @@
 #https://github.com/uvsq21918039/projet_incendie
 #########################################################
 
-
-test
-TEST HAKIM
-JHJLXKGLGKCH
-huho
-
-re test numéro 4545648416
-
-
-##### test du segment numéro 1
-=======
-
+#########################################################
+# import des librairies
+import tkinter as tk 
+#########################################################
