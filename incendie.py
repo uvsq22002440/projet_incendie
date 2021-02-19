@@ -7,7 +7,7 @@
 # Wacil Naoufl 
 # Anas Shaik 
 # Abdel Hakim Belmehdi
-# Lakshli Kootala 
+# Lakshmi Kootala 
 # Wiliam Mollet
 #https://github.com/uvsq21918039/projet_incendie
 #########################################################
