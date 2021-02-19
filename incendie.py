@@ -86,12 +86,8 @@ racine = tk.Tk()
 canvas = tk.Canvas(racine,width=LARGEUR,height=HAUTEUR,bg=COULEUR_FOND)
 canvas.grid()
 
-<<<<<<< HEAD
 quadrillage()
-=======
 
-
->>>>>>> 362e536a778833e8c0acadc10b8ce134daa01ed8
 racine.mainloop()
 #########################################################
 
